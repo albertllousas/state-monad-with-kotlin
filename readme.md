@@ -2,11 +2,8 @@
 
 ## Description
 
-- Have you heard about the state monad? 
-- Are you wondering what's that? 
-- In which cases should you consider it as an option? 
-
-This repo explores and try to answer these questions around this functional programming pattern using kotlin.
+Have you heard about the state monad? This repo implements this functional programming pattern using kotlin and explains
+the basics of it.
 
 ## Example using state monad
 
