@@ -52,7 +52,7 @@ fun isEven(num: Int): State<Boolean, Int> = State { state ->
 
 Simple, state monad is just a **datatype wrapping a stateful computation**
 
-# Wrap up
+# Wrapping up
 
 We can not finish without mentioning that state is a monad, therefore it should implement `map` and `flatmap` functions.
 
