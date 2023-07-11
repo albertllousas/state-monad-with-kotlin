@@ -13,6 +13,7 @@ This repo explores and try to answer these questions around this functional prog
 - [Rock paper scissors game](https://en.wikipedia.org/wiki/Rock_paper_scissors) 
   - [Code](src/main/kotlin/example/RockPaperScissors.kt)
   - [Tests & usage](src/test/kotlin/example/RockPaperScissorsTest.kt)
+- [State monad](src/main/kotlin/statemonad/State.kt)
 
 
 ## Stateful computations
