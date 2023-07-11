@@ -56,4 +56,4 @@ Simple, state monad is just a **datatype wrapping a stateful computation**
 
 We can not finish without mentioning that state is a monad, therefore it should implement `map` and `flatmap` functions.
 
-In this example it would be missing to implement `get` and `put` funtions that usually come alongside the pattern as well.
+In this example it would be missing to implement `get` and `put` functions that usually come alongside the pattern as well.
